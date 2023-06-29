@@ -23,7 +23,7 @@
 
 ## ✏ commit 규칙
 - commit 메세지 : [문제출처](문제번호.)문제이름/난이도
-- commit 메세지 예시 : [BOJ]2023.Hello World/실버 5, [PGS] 안녕/LEVEL 3
+- commit 메세지 예시 : [BOJ] 2023.Hello World/실버 5, [PGS] 안녕/LEVEL 3
 - 문제출처
   + [BOJ] : 백준
   + [PGS] : 프로그래머스
